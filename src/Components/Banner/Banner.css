@@ -1,0 +1,16 @@
+.banner-container{
+  margin-top: 3rem;
+}
+  .title {
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .about-btn {
+    background-color: #0d6efd;
+    outline: none;
+    border: none;
+    font-size: large;
+    font-weight: 800;
+    padding: 17px 34px;
+    color: white;
+  }

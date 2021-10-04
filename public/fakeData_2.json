@@ -1,0 +1,137 @@
+[
+    {
+        "name":"Python for evverybody",
+        "offered":"University of Michigan",
+        "ratings":"3",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/python.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.",
+        "id":"pypy-1",
+        "teacher":"https://randomuser.me/api/portraits/men/51.jpg",
+        "tName":"Rodrick"
+        
+    },
+    {
+        "name":"Google IT Automation With Python",
+        "offered":"Google",
+        "ratings":"4",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/10/94e64625eb4b41b05e66ed0e5bab30/Xavier-MI-Thompson-119.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.This certificate can be completed in about 6 months and is designed to prepare you for a variety of roles in IT, like more advanced IT Support Specialist or Junior Systems Administrator positions. ",
+        "id":"pypy-2",
+        "teacher":"https://randomuser.me/api/portraits/men/36.jpg",
+        "tName":"Robin"
+        
+    },
+    {
+        "name":"JavaScript for beginners",
+        "offered":"University of California",
+        "ratings":"4",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0d/e2553478254970977ae6126a54d7af/GettyImages-172778145_600x600.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"This Specialization is intended for the learner with no previous programming experience or the career changer transitioning to software development. JavaScript is generally the first programming language you will need to learn and this Specialization will help you practice and build your skills through a gentle progression of modules and courses.",
+        "id":"js-1",
+        "teacher":"https://randomuser.me/api/portraits/men/64.jpg",
+        "tName":"Rooney"
+        
+    },
+    {
+        "name":"JavaScript Basics",
+        "offered":"University of Michigan",
+        "ratings":"3",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e3/6763af064740cda1ac7cc01d134f04/GettyImages-1202278643_1200x1200.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"This course introduces the programming language JavaScript and shows the websites that include the type of interactions students will eventually be able to develop.  Learners will understand the importance of how JavaScript was developed and why such history impacts the way JavaScript is currently written and in future releases.Learners will write their first scripts, have their HTML and CSS skills assessed, create variables and arrays and assign values to them.  If student’s skills are lacking, resources and recommendations are provided to improve these skills. There is ample opportunity for students to practice these first, core skills.",
+        "id":"js-2",
+        "teacher":"https://randomuser.me/api/portraits/men/62.jpg",
+        "tName":"Rayden"
+        
+    },
+    {
+        "name":"Full-Stack Web Development with React",
+        "offered":"The Hong Kong University of Science and Technology",
+        "ratings":"4",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/python.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side you’ll learn to implement NoSQL databases using MongoDB work within a Node.js environment and Express framework and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML CSS and JavaScript.",
+        "id":"react-1",
+        "teacher":"https://randomuser.me/api/portraits/men/33.jpg",
+        "tName":"Roger"
+        
+    },
+    {
+        "name":"Front-end with React",
+        "offered":"University of Michigan",
+        "ratings":"3",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5f/506890537e11e8966b999b6cf9ce61/logo.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"This course explores Javascript based front-end application development, and in particular the React library (Currently Ver. 16.3). This course will use JavaScript ES6 for developing React application. You will also get an introduction to the use of Reactstrap for Bootstrap 4-based responsive UI design. You will be introduced to various aspects of React components. You will learn about React router and its use in developing single-page applications.",
+        "id":"react-2",
+        "teacher":"https://randomuser.me/api/portraits/men/85.jpg",
+        "tName":"Ralph"
+        
+    },
+    {
+        "name":"NodeJs with AWS",
+        "offered":"AWS",
+        "ratings":"3",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/19/a750d74ac44e218c0dc75547a61977/600x600-Node-100.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"This specialization is designed to help you master the skills of designing and building cloud-native applications on AWS. We begin with the foundational technical and cloud knowledge that you need to have to build in the AWS Cloud. In the first course, you will be introduced to several AWS compute services, different storage and database offerings that AWS provides, AWS’ networking capabilities, monitoring capabilities and the AWS IAM service. ",
+        "id":"nodejs-1",
+        "teacher":"https://randomuser.me/api/portraits/men/87.jpg",
+        "tName":"Rody"
+        
+    },
+    {
+        "name":"Cloud apps with Nodejs",
+        "offered":"IBM",
+        "ratings":"4",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/87/4d460d97de44dc9d3bfbe02eb7bbd1/CAD-4-Option-1.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"In this course, you will focus on server-side JavaScript and frameworks. You will discover ways to make development faster and easier in web browsers and embedded systems. You may ask, what is the relevance of developing cloud applications with Node.js and React? ",
+        "id":"nodejs-2",
+        "teacher":"https://randomuser.me/api/portraits/men/48.jpg",
+        "tName":"Ravi"
+        
+    },
+    {
+        "name":"AWS Cloud Practitioner Essentials",
+        "offered":"AWS",
+        "ratings":"3",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a3/08700836b44853b863cc7c574f97fc/CloudPractitioner_Thumbnail_Coursera.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"Welcome to AWS Cloud Practitioner Essentials. If you’re new to the cloud, whether you’re in a technical or non-technical role such as finance, legal, sales, marketing, this course will provide you with an understanding of fundamental AWS Cloud concepts to help you gain confidence to contribute to your organization’s cloud initiatives. This course is also the starting point to prepare for your AWS Certified Cloud Practitioner certification whenever it’s convenient for you.",
+        "id":"aws-1",
+        "teacher":"https://randomuser.me/api/portraits/men/50.jpg",
+        "tName":"Rahul"
+        
+    },
+    {
+        "name":"AWS Cloud Technical Essentials",
+        "offered":"AWS",
+        "ratings":"3",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9a/80a1b9bddd4e2bb7e231a18b88c2b3/Tech-Ess-Thumb-Coursera-purple.png?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+        "desc":"Are you in a technical role and want to learn the fundamentals of AWS? Do you aspire to have a job or career as a cloud developer, architect, or in an operations role? If so, AWS Cloud Technical Essentials is an ideal way to start. This course was designed for those at the beginning of their cloud-learning journey - no prior knowledge of cloud computing or AWS products and services required!",
+        "id":"aws-2",
+        "teacher":"https://randomuser.me/api/portraits/men/82.jpg",
+        "tName":"Rafael"
+
+        
+    },
+    {
+        "name":"Excel Skills for Business",
+        "offered":"Macquire University",
+        "ratings":"3",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a5/5fe03ce0bd4774b8025536110a845e/04.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"This specialization is intended for anyone who seeks to develop one of the most critical and fundamental digital skills today. Spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. In the United States alone, millions of job advertisements requiring Excel skills are posted every day. Research by Burning Glass Technologies and Capital One shows that digital skills lead to higher income and better employment opportunities. At a time when digital skills jobs are growing much faster than non-digital jobs, completing this specialization will position you way ahead of others.",
+        "id":"excel-1",
+        "teacher":"https://randomuser.me/api/portraits/men/31.jpg",
+        "tName":"Rory"
+        
+    },
+    {
+        "name":"Everyday Excel",
+        "offered":"University of Michigan",
+        "ratings":"3",
+        "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ab/064e30689b11e6b15e258d2ed5be58/excel2.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+        "desc":"This Specialization is for learners wishing to learn Microsoft Excel from beginner level to expert level.  The first two courses will teach learners the basics of Excel through the use of dozens of educational screencasts and a series of quizzes and in-application assignments.  Finally, in Part 3 (Projects), learners will complete several real world somewhat open ended yet guided projects.  In the Projects course, special emphasis is placed on dynamic array functions, which are new in Office 365 and have revolutionized the way that worksheet calculations are performed.",
+        "teacher":"https://randomuser.me/api/portraits/men/7.jpg",
+        "tName":"Ryan",
+        "id":"excel-2"
+        
+    }
+
+
+]
